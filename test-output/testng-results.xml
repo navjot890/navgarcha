@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7697" started-at="2019-01-18T20:08:14Z" finished-at="2019-01-18T20:08:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7697" started-at="2019-01-18T20:08:14Z" finished-at="2019-01-18T20:08:22Z">
+      <class name="practiceMavenProject.Sample.DataProviders">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:practiceMavenProject.Sample.DataProviders@153acfe]" name="login" duration-ms="7670" started-at="2019-01-18T20:08:15Z" data-provider="provideData" finished-at="2019-01-18T20:08:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[navjot]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[navjot1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- practiceMavenProject.Sample.DataProviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
